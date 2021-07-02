@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
-<h3 align="center"> Olá, chegue mais, fique a vontade... ☕️ </h3>
+### Olá, chegue mais, fique a vontade... ☕️ 
 
 <img align="right" src="/brain.gif?raw=true" width="200px"> 
 
