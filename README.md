@@ -3,7 +3,9 @@
 <h3 align="center"> Olá, chegue mais, fique a vontade... ☕️ </h3>
 
 <p align="center">👤️ Me chamo Vinícius, sou estudante de neurociências com enfoque cognitivo computacional na Universidade Federal do ABC (UFABC). </p>
-![Brain with glasses](https://raw.githubusercontent.com/notparallaxed/notparallaxed/main/brain.gif | width=100)
+
+![](/brain.gif?raw=true)
+
 
 
 
