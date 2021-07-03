@@ -6,6 +6,8 @@
 
 👤️ Sou estudante de **neurociências** com enfoque cognitivo computacional na **Universidade Federal do ABC (UFABC).**
 
+🚩️
+
 
 
 
