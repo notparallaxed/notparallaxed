@@ -2,9 +2,9 @@
 
 <img align="right" src="/brain.gif?raw=true" width="200px"> 
 
-### Please, make yourself confortable... ☕️ 
+### Please, make yourself comfortable... ☕️ 
 
-👤️ I'm a **neuroscience** student with cognitive-computational focus at **Universidade Federal do ABC (UFABC).**
+👤️ I'm a **neuroscience** student with cognitive-computational study focus at **Universidade Federal do ABC (UFABC).**
 
 ---
 
