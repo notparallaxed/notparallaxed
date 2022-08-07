@@ -2,6 +2,12 @@
 
 <img align="right" src="/brain.gif?raw=true" width="200px"> 
 
+### Please, make yourself confortable... ☕️ 
+
+👤️ I'm a **neuroscience** student with cognitive-computational focus at **Universidade Federal do ABC (UFABC).**
+
+---
+
 ### Olá, chegue mais, fique a vontade... ☕️ 
 
 👤️ Sou estudante de **neurociências** com enfoque cognitivo computacional na **Universidade Federal do ABC (UFABC).**
